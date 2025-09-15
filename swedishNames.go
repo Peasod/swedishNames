@@ -1,7 +1,7 @@
-package sweNames
+package swedishNames
 
 import "fmt"
 
 func LibTest() {
-	fmt.Println("Testing import statement.")
+	fmt.Println("Testing import statement from swedishNames package.")
 }
